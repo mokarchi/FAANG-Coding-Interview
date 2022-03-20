@@ -14,4 +14,6 @@
 ###### 5. Can there be multiple pairs that add up to the target?
 ###### No, Only one pair of numbers will add up to the target.
 
-## Step 2: write out some of these test cases
+## Step 2: Write out some of these test cases
+## Step 3: Figure out a solution without code
+## Step 4: Write out our solution in code
