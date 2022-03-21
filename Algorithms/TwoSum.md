@@ -20,3 +20,4 @@
 ## Step 5: Double check for errors
 ## Step 6: Test our code with our test cases
 ## Step 7: Space & Time Complexity
+## Step 8: Can we optimize our solution?
