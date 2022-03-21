@@ -19,3 +19,4 @@
 ## Step 4: Write out our solution in code
 ## Step 5: Double check for errors
 ## Step 6: Test our code with our test cases
+## Step 7: Space & Time Complexity
