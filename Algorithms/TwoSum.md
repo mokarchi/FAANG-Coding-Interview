@@ -17,3 +17,5 @@
 ## Step 2: Write out some of these test cases
 ## Step 3: Figure out a solution without code
 ## Step 4: Write out our solution in code
+## Step 5: Double check for errors
+## Step 6: Test our code with our test cases
